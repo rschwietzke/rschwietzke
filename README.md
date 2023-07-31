@@ -2,6 +2,7 @@
 - 👀 I’m interested in software testing, quality assurance, and Java programming
 - 💞️ I’m looking to collaborate on Java high performance topics and load and performance testing
 - 📫 How to reach me Twitter @reneschwietzke or Mastodon  https://foojay.social/@reneschwietzke
+- You can read my [blog](https://reneschwietzke.de/) too. All about Java, Performance, and Testing.
 - I work at [Xceptance](https://www.xceptance.com) as product owner, performance engineer, test consultant, high performance Java developer, and accidentally also as managing director and founder.
 
 
